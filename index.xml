@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filip Krátký</title>
+    <link>/</link>
+    <description>Recent content on Filip Krátký</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ArchViz Study</title>
+      <link>/portfolio/dedinka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/dedinka/</guid>
+      <description>TODO</description>
+    </item>
+    
+    <item>
+      <title>Designer Table</title>
+      <link>/portfolio/table/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/table/</guid>
+      <description>&lt;p&gt;This project was a product visualization of a designer table for &lt;a href=&#34;http://www.charlescridom.com&#34;&gt;www.charlescridom.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gizmos</title>
+      <link>/portfolio/gizmos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/gizmos/</guid>
+      <description>&lt;p&gt;A couple of gizmos I modeled for practice and for fun&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hydroponic Planter</title>
+      <link>/portfolio/hydro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/hydro/</guid>
+      <description>TODO</description>
+    </item>
+    
+    <item>
+      <title>Industrial light assets</title>
+      <link>/portfolio/lights/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/lights/</guid>
+      <description>&lt;p&gt;Three industrial style hanging lights, modeled from photo referrence.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mask</title>
+      <link>/portfolio/mask/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/mask/</guid>
+      <description>TODO</description>
+    </item>
+    
+  </channel>
+</rss>
