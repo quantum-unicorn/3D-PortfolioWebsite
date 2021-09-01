@@ -2,66 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Filip Krátký</title>
-    <link>https://trusting-bhabha-01e4f8.netlify.app/portfolio/</link>
+    <link>https://filip-kratky-portfolio.netlify.app/portfolio/</link>
     <description>Recent content in Portfolios on Filip Krátký</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://trusting-bhabha-01e4f8.netlify.app/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://filip-kratky-portfolio.netlify.app/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ArchViz Study</title>
-      <link>https://trusting-bhabha-01e4f8.netlify.app/portfolio/dedinka/</link>
+      <title>Sci-fi Game</title>
+      <link>https://filip-kratky-portfolio.netlify.app/portfolio/scifi_game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://trusting-bhabha-01e4f8.netlify.app/portfolio/dedinka/</guid>
-      <description>TODO</description>
+      <guid>https://filip-kratky-portfolio.netlify.app/portfolio/scifi_game/</guid>
+      <description>&lt;p&gt;3D art for a work in progress, indie, sci-fi FPS game&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ArchViz Study</title>
+      <link>https://filip-kratky-portfolio.netlify.app/portfolio/dedinka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://filip-kratky-portfolio.netlify.app/portfolio/dedinka/</guid>
+      <description>&lt;p&gt;An ArchViz study for a construction company&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Designer Table</title>
-      <link>https://trusting-bhabha-01e4f8.netlify.app/portfolio/table/</link>
+      <link>https://filip-kratky-portfolio.netlify.app/portfolio/table/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://trusting-bhabha-01e4f8.netlify.app/portfolio/table/</guid>
+      <guid>https://filip-kratky-portfolio.netlify.app/portfolio/table/</guid>
       <description>&lt;p&gt;This project was a product visualization of a designer table for &lt;a href=&#34;http://www.charlescridom.com&#34;&gt;www.charlescridom.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Gizmos</title>
-      <link>https://trusting-bhabha-01e4f8.netlify.app/portfolio/gizmos/</link>
+      <link>https://filip-kratky-portfolio.netlify.app/portfolio/gizmos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://trusting-bhabha-01e4f8.netlify.app/portfolio/gizmos/</guid>
+      <guid>https://filip-kratky-portfolio.netlify.app/portfolio/gizmos/</guid>
       <description>&lt;p&gt;A couple of gizmos I modeled for practice and for fun&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hydroponic Planter</title>
-      <link>https://trusting-bhabha-01e4f8.netlify.app/portfolio/hydro/</link>
+      <link>https://filip-kratky-portfolio.netlify.app/portfolio/hydro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://trusting-bhabha-01e4f8.netlify.app/portfolio/hydro/</guid>
-      <description>TODO</description>
+      <guid>https://filip-kratky-portfolio.netlify.app/portfolio/hydro/</guid>
+      <description>&lt;p&gt;Product visualization for a hydroponic planter&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Industrial light assets</title>
-      <link>https://trusting-bhabha-01e4f8.netlify.app/portfolio/lights/</link>
+      <link>https://filip-kratky-portfolio.netlify.app/portfolio/lights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://trusting-bhabha-01e4f8.netlify.app/portfolio/lights/</guid>
+      <guid>https://filip-kratky-portfolio.netlify.app/portfolio/lights/</guid>
       <description>&lt;p&gt;Three industrial style hanging lights, modeled from photo referrence.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Mask</title>
-      <link>https://trusting-bhabha-01e4f8.netlify.app/portfolio/mask/</link>
+      <link>https://filip-kratky-portfolio.netlify.app/portfolio/mask/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://trusting-bhabha-01e4f8.netlify.app/portfolio/mask/</guid>
-      <description>TODO</description>
+      <guid>https://filip-kratky-portfolio.netlify.app/portfolio/mask/</guid>
+      <description>&lt;p&gt;Textured mask modelled from reference&lt;/p&gt;</description>
     </item>
     
   </channel>
