@@ -29,12 +29,12 @@
     </item>
     
     <item>
-      <title>Sci-fi Game</title>
+      <title>Sci-fi Game assets</title>
       <link>https://filip-kratky-portfolio.netlify.app/portfolio/scifi_game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://filip-kratky-portfolio.netlify.app/portfolio/scifi_game/</guid>
-      <description>&lt;p&gt;3D art for a work in progress, indie, sci-fi FPS game&lt;/p&gt;</description>
+      <description>&lt;p&gt;3D art for an indie, sci-fi FPS game&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -52,7 +52,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://filip-kratky-portfolio.netlify.app/portfolio/table/</guid>
-      <description>&lt;p&gt;This project was a product visualization of a designer table for &lt;a href=&#34;http://www.charlescridom.com&#34;&gt;www.charlescridom.com&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Product visualization of a designer table for &lt;a href=&#34;http://www.charlescridom.com&#34;&gt;www.charlescridom.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Procedural materials</title>
+      <link>https://filip-kratky-portfolio.netlify.app/portfolio/materials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://filip-kratky-portfolio.netlify.app/portfolio/materials/</guid>
+      <description>&lt;p&gt;Fully procedurally generated and baked materials, made with Blender&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dumpster</title>
+      <link>https://filip-kratky-portfolio.netlify.app/portfolio/dumpster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://filip-kratky-portfolio.netlify.app/portfolio/dumpster/</guid>
+      <description>&lt;p&gt;A trash dumpster&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -88,7 +106,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://filip-kratky-portfolio.netlify.app/portfolio/mask/</guid>
-      <description>&lt;p&gt;Textured mask modelled from reference&lt;/p&gt;</description>
+      <description>&lt;p&gt;Textured mask modelled from concept art&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Menu</title>
+      <link>https://filip-kratky-portfolio.netlify.app/portfolio/drinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://filip-kratky-portfolio.netlify.app/portfolio/drinks/</guid>
+      <description>&lt;p&gt;Drinks and food menu for a music bar&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Randomized creatures</title>
+      <link>https://filip-kratky-portfolio.netlify.app/portfolio/blobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://filip-kratky-portfolio.netlify.app/portfolio/blobs/</guid>
+      <description>&lt;p&gt;Procedurally generated collection of 10 000 unique blob creatures&lt;/p&gt;</description>
     </item>
     
   </channel>
