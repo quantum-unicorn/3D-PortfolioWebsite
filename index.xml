@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Project &#34;LucidBlobs&#34;</title>
+      <link>https://filip-kratky-portfolio.netlify.app/projects/blobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://filip-kratky-portfolio.netlify.app/projects/blobs/</guid>
+      <description>&lt;p&gt;Procedurally generated collection of 10 000 unique blob creatures&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Gun Turret</title>
       <link>https://filip-kratky-portfolio.netlify.app/portfolio/gunturret/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,12 +38,30 @@
     </item>
     
     <item>
+      <title>Procect &#34;Voice-VAE&#34;</title>
+      <link>https://filip-kratky-portfolio.netlify.app/projects/voicevae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://filip-kratky-portfolio.netlify.app/projects/voicevae/</guid>
+      <description>&lt;p&gt;Neural network for voice compression&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Sci-fi Game assets</title>
       <link>https://filip-kratky-portfolio.netlify.app/portfolio/scifi_game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://filip-kratky-portfolio.netlify.app/portfolio/scifi_game/</guid>
       <description>&lt;p&gt;3D art for an indie, sci-fi FPS game&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Music Video</title>
+      <link>https://filip-kratky-portfolio.netlify.app/projects/socaslide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://filip-kratky-portfolio.netlify.app/projects/socaslide/</guid>
+      <description>&lt;p&gt;VFX for a music video production&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -70,7 +97,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://filip-kratky-portfolio.netlify.app/portfolio/dumpster/</guid>
-      <description>&lt;p&gt;A trash dumpster&lt;/p&gt;</description>
+      <description>&lt;p&gt;A dumpster I made as a joke&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Figurine clone</title>
+      <link>https://filip-kratky-portfolio.netlify.app/projects/angelclone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://filip-kratky-portfolio.netlify.app/projects/angelclone/</guid>
+      <description>&lt;p&gt;3D printed, 2x scale clone of an angel figurine&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -110,6 +146,15 @@
     </item>
     
     <item>
+      <title>Proxima City</title>
+      <link>https://filip-kratky-portfolio.netlify.app/projects/proximacity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://filip-kratky-portfolio.netlify.app/projects/proximacity/</guid>
+      <description>&lt;p&gt;3D printed model of a smart city&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Menu</title>
       <link>https://filip-kratky-portfolio.netlify.app/portfolio/drinks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -119,12 +164,12 @@
     </item>
     
     <item>
-      <title>Randomized creatures</title>
-      <link>https://filip-kratky-portfolio.netlify.app/portfolio/blobs/</link>
+      <title>Project &#34;Cartel&#34;</title>
+      <link>https://filip-kratky-portfolio.netlify.app/projects/customvape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://filip-kratky-portfolio.netlify.app/portfolio/blobs/</guid>
-      <description>&lt;p&gt;Procedurally generated collection of 10 000 unique blob creatures&lt;/p&gt;</description>
+      <guid>https://filip-kratky-portfolio.netlify.app/projects/customvape/</guid>
+      <description>&lt;p&gt;Custom, high power vaporizer made of wood&lt;/p&gt;</description>
     </item>
     
   </channel>
