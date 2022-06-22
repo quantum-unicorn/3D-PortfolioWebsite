@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://filip-kratky-portfolio.netlify.app/projects/angelclone/</loc>
+  </url>
+  
+  <url>
     <loc>https://filip-kratky-portfolio.netlify.app/portfolio/holotable/</loc>
   </url>
   
@@ -35,15 +39,15 @@
   </url>
   
   <url>
+    <loc>https://filip-kratky-portfolio.netlify.app/portfolio/factory/</loc>
+  </url>
+  
+  <url>
     <loc>https://filip-kratky-portfolio.netlify.app/portfolio/materials/</loc>
   </url>
   
   <url>
     <loc>https://filip-kratky-portfolio.netlify.app/portfolio/dumpster/</loc>
-  </url>
-  
-  <url>
-    <loc>https://filip-kratky-portfolio.netlify.app/projects/angelclone/</loc>
   </url>
   
   <url>
